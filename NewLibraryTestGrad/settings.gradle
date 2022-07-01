@@ -1,4 +1,0 @@
-rootProject.name = 'NewLibraryTestGrad'
-
-//include 'application'
-include 'library'
